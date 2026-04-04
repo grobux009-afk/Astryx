@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Astryx",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "AstryxSMP-GPTr.aternos.me",
+    "port": 44851,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Hey, I'm Astryx, Enjoy the server",
+        "What if sex was ranked?",
+        "Did you know it would take 1.3 seconds for light to travel to the moon?"
       ]
     },
     "chat-log": true,
